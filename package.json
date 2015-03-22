@@ -1,0 +1,27 @@
+{
+  "name": "interval-union",
+  "version": "0.0.0",
+  "description": "compute the union of two intervals",
+  "main": "interval-union.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/interval-union.git"
+  },
+  "keywords": [
+    "interval",
+    "union",
+    "boolean"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/interval-union/issues"
+  },
+  "homepage": "https://github.com/tmpvar/interval-union",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
